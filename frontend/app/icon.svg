@@ -7,12 +7,11 @@
   the same shape for the bullseye).
 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-116 -116 232 232" width="232" height="232">
-  <rect x="-116" y="-116" width="232" height="232" rx="52" fill="#ffffff" />
+  <rect x="-116" y="-116" width="232" height="232" rx="52" fill="#000000" />
   <g fill="none">
-    <circle cx="0" cy="0" r="66" fill="#ccffff" />
     <path
       d="M 19.96 -80.05 A 82.5 82.5 0 1 0 72.84 38.72"
-      stroke="#00889a"
+      stroke="#17b4cf"
       stroke-width="35"
       stroke-linecap="round"
     />
@@ -21,9 +20,9 @@
          C 16.85 -5.22, 34.95 -18.42, 57.92 -14.92
          L 33.82 -49.32
          C 29.27 -26.53, 10.67 -14.06, -14.91 -21.30 Z"
-      fill="#00889a"
+      fill="#17b4cf"
     />
-    <circle cx="0" cy="0" r="26" fill="#00889a" />
-    <circle cx="45.87" cy="-32.12" r="21" fill="#00889a" />
+    <circle cx="0" cy="0" r="26" fill="#17b4cf" />
+    <circle cx="45.87" cy="-32.12" r="21" fill="#17b4cf" />
   </g>
 </svg>
