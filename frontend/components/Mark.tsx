@@ -28,6 +28,8 @@ export function Mark({
       aria-label={title}
       aria-hidden={title ? undefined : true}
     >
+      {/* The light-blue core filling the inside of the C. */}
+      <circle cx="0" cy="0" r="66" fill="var(--color-aim-pale, #ccffff)" />
       {/* The C: mid-radius 82.5, stroke 35, from 76° round to 332°. */}
       <path
         d="M 19.96 -80.05 A 82.5 82.5 0 1 0 72.84 38.72"
